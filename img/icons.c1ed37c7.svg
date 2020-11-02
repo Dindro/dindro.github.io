@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol viewBox="0 0 24 24" id="cross">
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M5.5 5.5l13 13" />
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M18.5 5.5l-13 13" />
+</symbol><symbol viewBox="0 0 24 24" id="save">
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.32 19H6.54A1.54 1.54 0 015 17.46V6.68a1.54 1.54 0 011.54-1.53H15l3.84 3.84v8.47A1.54 1.54 0 0117.31 19z" />
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.78 19v-6.16h-7.7V19" />
+</symbol><symbol viewBox="0 0 24 24" id="trash">
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.232 8.154h13.035" />
+  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.819 8.158v10.135a1.448 1.448 0 01-1.448 1.448H8.129a1.448 1.448 0 01-1.448-1.448V8.158m2.173 0V6.706a1.448 1.448 0 011.448-1.448h2.9a1.448 1.448 0 011.448 1.448v1.452" />
+</symbol></defs></svg>
